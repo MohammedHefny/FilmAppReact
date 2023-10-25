@@ -1,0 +1,16 @@
+a {
+  text-decoration: none !important;
+  color: #3f51b5;
+  margin-right: 10px;
+}
+img {
+  width: 50%;
+}
+.navbar {
+  background-color: white !important;
+}
+@media (min-width: 992px) {
+  .navControl {
+    margin-left: 66% !important;
+  }
+}

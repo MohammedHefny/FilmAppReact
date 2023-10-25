@@ -1,0 +1,19 @@
+.burger {
+  margin-right: -15px;
+  font-size: 14px;
+}
+@media (min-width: 992px) {
+  .burgerHolder {
+    flex-basis: max-content !important;
+  }
+}
+@media (max-width: 992px) {
+  .burgerHolder {
+    margin-top: 30px !important;
+  }
+}
+@media (max-width: 992px) {
+  .box {
+    width: 100% !important;
+  }
+}
